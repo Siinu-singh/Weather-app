@@ -1,0 +1,25 @@
+.Sunny {
+    color: goldenrod;
+    transition: transform 2.5s ease, margin 2.5s ease; /* Increased duration for smoother transition */
+}
+
+.Sunny:hover {
+    transform: scale(1.2); /* Zoom effect */
+    margin: 10px; /* Add margin on hover */
+}
+.cloud{
+    color: skyblue;
+    transition: transform 2.5s ease, margin 2.5s ease; /* Increased duration for smoother transition */
+}
+.cloud:hover {
+    transform: scale(1.2); /* Zoom effect */
+    margin: 10px; /* Add margin on hover */
+}
+.night{
+    color: silver;
+    transition: transform 2.5s ease, margin 2.5s ease; /* Increased duration for smoother transition */
+}
+.night:hover {
+    transform: scale(1.2); /* Zoom effect */
+    margin: 10px; /* Add margin on hover */
+}
