@@ -1,5 +1,6 @@
 import "./App.css";
 import SearchBox from "./searchBox";
+
 import InfoBox from "./infoBox";
 import { useState } from "react";
 
